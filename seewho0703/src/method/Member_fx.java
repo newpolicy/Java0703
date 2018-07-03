@@ -13,7 +13,7 @@ public class Member_fx {
 		return name;
 	}
 	public void setName(String arg) {
-		name = arg;//dddddddd
+		name = arg;//
 	}
 	
 	public String getMobile() {
